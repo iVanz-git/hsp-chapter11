@@ -12,9 +12,12 @@ public class EnumExc01 {
         }
 
         System.out.println("随便说句话");
+        System.out.println("随便说111句话");
+        System.out.println("随便说句话");
+        System.out.println("随便说111222句话");
         System.out.println("随便说句话");
         System.out.println("随便说句话");
-        System.out.println("随便说句话");
+        System.out.println("随便说222333句话");
 
     }
 }
